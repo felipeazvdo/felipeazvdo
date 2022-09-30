@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on PHP with Laravel Framework
 
-- 🌱 I’m currently learning JavaScript / HTML / CSS
+- 🌱 I’m currently learning JavaScript / HTML / CSS / React.JS 
 
 - ⚡ Always go above and beyond
 
