@@ -1,8 +1,8 @@
 ## Hello, Welcome to my profile 👋
 
-- 🔭 I’m currently working on PHP with Laravel Framework
+- 🔭 I’m currently working as Data Analyst using Python and SQL
 
-- 🌱 I’m currently learning - JavaScript / HTML / CSS / React.JS 
+- 🌱 I’m currently learning - Data Science and Managing Big Data Models
 
 - ⚡ Always go above and beyond
 
