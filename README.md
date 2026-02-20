@@ -8,14 +8,6 @@
 
 ##
 
-<div>
-  <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeazvdo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeazvdo&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Felipe-Laravel" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
