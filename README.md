@@ -6,7 +6,7 @@
 
 - ⚡ Always go above and beyond
 
-##
+## Some of my knowledge 🧠
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
