@@ -10,9 +10,9 @@
 
 ## About me 🔭
 
-- 🔭 Atualmente trabalho como **Data Analyst** usando **Python** e **SQL**
-- 🌱 Estou aprendendo **Data Science** e **Managing Big Data Models**
-- ⚡ Sempre vou acima e além
+- 🔭 I'm actually working as **Data Analyst** using **Python**, **SQL**, **Excel** and **Power BI**
+- 🌱 I'm currently learning **Data Science** and **Managing Big Data Models**
+- ⚡ Always go above and beyond
 
 ---
 
