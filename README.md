@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, bem-vindo ao meu perfil! 👋
+## Hello, Welcome to my profile 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%26+SQL;Learning+Data+Science+%26+Big+Data;Always+going+above+and+beyond+%E2%9A%A1" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🔭 Sobre mim
+## About me 🔭
 
 - 🔭 Atualmente trabalho como **Data Analyst** usando **Python** e **SQL**
 - 🌱 Estou aprendendo **Data Science** e **Managing Big Data Models**
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 Algumas das minhas tecnologias
+## Some of my knowledge 🧠
 
 <div align="center">
   <img alt="PHP" height="50" width="60" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+## GitHub Statistics 📊
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipeazvdo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+## Social Medias 🌐
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-azevedo-a88119238/" target="_blank">
