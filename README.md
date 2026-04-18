@@ -31,7 +31,7 @@
 
 ---
 
-# Github Statistics 📊
+# Github Status 📊
 
 <div align="left"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipeazvdo&theme=gruvbox"/>&nbsp;<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipeazvdo&theme=gruvbox"/></div>
 
