@@ -11,7 +11,7 @@
 
 <br>
 
-# About me 😁
+# About me 😊
 
 - 🔭 I'm actually working as **Data Analyst** using **Python**, **SQL**, **Excel** and **Power BI**
 - 🌱 I'm currently learning **Data Science** and **Managing Big Data Models**
@@ -21,9 +21,11 @@
 
 ---
 
+<br>
+
 # Some of my knowledge 🧠
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,python,mysql,figma&perrow=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,python,mysql,figma,postgres,selenium,sqlite,opencv,flask,anaconda&perrow=7)](https://skillicons.dev)
 
 <br>
 
@@ -33,7 +35,7 @@
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipeazvdo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeazvdo&layout=compact&langs_count=7&theme=gruvbox&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeazvdo&layout=compact&langs_count=7&theme=gruvbox&hide_border=true&number_format=short"/>
 </div>
 
 <br>
@@ -42,10 +44,6 @@
 
 # Social Media 🌐
 
-<a href="https://www.linkedin.com/in/felipe-azevedo-a88119238/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=0">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/felipe-azevedo-a88119238/)
 &nbsp;
-<a href="mailto:seuemail@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=0">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yNCA1LjQ1N3YxMy45MDljMCAuOTA0LS43MzIgMS42MzYtMS42MzYgMS42MzZoLTMuODE5VjExLjczTDEyIDE2LjY0bC02LjU0NS00LjkxdjkuMjczSDEuNjM2QTEuNjM2IDEuNjM2IDAgMCAxIDAgMTkuMzY2VjUuNDU3YzAtMi4wMjMgMi4zMDktMy4xNzggMy45MjctMS45NjRMNS40NTUgNC42NCAxMiA5LjU0OGw2LjU0NS00LjkxIDEuNTI4LTEuMTQ1QzIxLjY5IDIuMjggMjQgMy40MzQgMjQgNS40NTd6Ii8+PC9zdmc+&logoColor=white&labelColor=B5170D)](mailto:felipe3ddd73@gmail.com)
